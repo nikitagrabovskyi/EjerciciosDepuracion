@@ -14,12 +14,12 @@ public class Ejemplo1While {
         }
         System.out.println("La suma es: " + suma );
     }
-    private int suma, num;
+    private int suma, numero;
 
     public Ejemplo1While() {
 
     this.suma = 0;
 
-    this.num = 0;
+    this.numero = 0;
 }
 
